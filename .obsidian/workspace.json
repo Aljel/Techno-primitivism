@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5678e522bb4baddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b77b4fcddb5581fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb2c6d826ee33c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 семестр/Введение в специальности/ВВС_глоссарий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ВВС_глоссарий"
+            }
+          },
+          {
+            "id": "67a3164fae3eb2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 семестр/История/История_лекция7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "История_лекция7"
+            }
+          },
+          {
+            "id": "0452acb711a0b1ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab99649bd1deb435",
+    "type": "split",
+    "children": [
+      {
+        "id": "4491db07c133a2c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8340962f10b8b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed7e2353fb2b01df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48dc20d554508e52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "789096ecde2ab4e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a043714b60363ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57dec7649153b220",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Инфопрога/Инфопрога_лекция5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Инфопрога_лекция5"
+            }
+          },
+          {
+            "id": "0ac0374aef18cb86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Инфопрога/Инфопрога_лекция5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Инфопрога_лекция5"
+            }
+          },
+          {
+            "id": "97bc4a6f429cae29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e3d65d3f053b958",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Инфопрога/Инфопрога_лекция5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Инфопрога_лекция5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "67a3164fae3eb2f6",
+  "lastOpenFiles": [
+    "2 семестр/История/История_лекция7.md",
+    "2 семестр/Введение в специальности/ВВС_глоссарий.md",
+    "2 семестр/СКР/Rust.md",
+    "2 семестр/СИТ/СИТ_лекция6.md",
+    "2 семестр/СИТ/СИТ_лекция5.md",
+    "2 семестр/Введение в специальности/ВВС_инфа.md",
+    "2 семестр/СИТ/СИТ_лекция4.md",
+    "2 семестр/История/История_лекция5.md",
+    "2 семестр/История/История_лекция4.md",
+    "2 семестр/СКР/Haskell.md",
+    "2 семестр/История/История_лекция1.md",
+    "2 семестр/Инфопрога/Итип_лекция2.md",
+    "2 семестр/Инфопрога/Итип_лекция1.md",
+    "2 семестр/Введение в специальности/ВВС_лекция_1.md",
+    "1 семестр/ОРГ/ОРГ_Лекция5.md",
+    "1 семестр/ОРГ/ОРГ_Лекция4.md",
+    "1 семестр/История/История_Лекция_11.md",
+    "1 семестр/История/История_Лекция_10.md",
+    "1 семестр/История/История_Лекция_9.md",
+    "1 семестр/История/История_Лекция_8.md",
+    "1 семестр/История/История_Лекция_7.md",
+    "1 семестр/История/История_Лекция_6.md",
+    "1 семестр/История/История_Лекция_5.md",
+    "1 семестр/История/История_Лекция_4.md",
+    "1 семестр/История/История для контрольной.md",
+    "2 семестр/История/История_лекция2.md",
+    "2 семестр/История/История_лекция4",
+    "2 семестр/СКР",
+    "2 семестр/История",
+    "2 семестр/Инфопрога",
+    "2 семестр",
+    "1 семестр",
+    "2 семестр/СИТ",
+    "2 семестр/Введение в специальности",
+    "1 семестр/Клубное",
+    "1 семестр/Инфопрога",
+    "Untitled.canvas"
+  ]
+}
